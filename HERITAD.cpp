@@ -24,5 +24,6 @@ void main()
 {
     Daughter obj;   
     obj.display();
+    obj.display_mother();
     getch();
 }
